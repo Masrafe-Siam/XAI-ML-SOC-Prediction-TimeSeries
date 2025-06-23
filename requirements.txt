@@ -1,0 +1,27 @@
+# Core packages
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Deep Learning (PyTorch version for Python 3.10)
+torch
+torchvision
+
+# Explainability
+shap
+lime
+
+# Utilities
+tqdm
+ipywidgets
+notebook
+
+# Environment and config
+python-dotenv
