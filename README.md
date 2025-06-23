@@ -1,1 +1,3 @@
 # XAI-ML-SOC-Prediction-TimeSeries
+
+"Drive-Cycle Specific Stress Mapping and Explainable ML-Based SOC Prediction Across Multi-Temperature Li-Ion Battery Operation" focuses on enhancing the accuracy and interpretability of State of Charge (SOC) prediction in lithium-ion batteries under varying thermal and operational conditions. The study involves mapping mechanical and electrical stress patterns that occur during different real-world drive cycles, and using explainable machine learning (ML) models to predict SOC reliably across a range of temperatures. This approach aims to improve battery performance, safety, and lifecycle management in electric vehicles.
