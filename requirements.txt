@@ -45,3 +45,6 @@ notebook
 
 # Environment and config
 python-dotenv
+
+tensorflow==2.15.0  # Optional, for TensorFlow users
+#tensorflow-gpu  # Optional, for TensorFlow users with GPU support
