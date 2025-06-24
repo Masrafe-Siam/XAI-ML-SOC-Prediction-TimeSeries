@@ -1,27 +1,41 @@
-# Core packages
-pandas
-numpy
+# # Core packages
+# pandas
+# numpy
 
-# Visualization
-matplotlib
-seaborn
+# # Visualization
+# matplotlib
+# seaborn
 
-# Machine Learning
-scikit-learn
+# # Machine Learning
+# scikit-learn
+
+# # Deep Learning (PyTorch version for Python 3.10)
+# torch
+# torchvision
+
+# # Explainability
+# shap
+# lime
+
+# # Utilities
+# tqdm
+# ipywidgets
+# notebook
+
+# # Environment and config
+# python-dotenv
+
+# tensorflow
+# shap
+
 xgboost
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.8.4
+seaborn==0.13.2
+scikit-learn==1.4.2
+tensorflow==2.15.0
+shap==0.45.0
 
-# Deep Learning (PyTorch version for Python 3.10)
-torch
-torchvision
-
-# Explainability
-shap
-lime
-
-# Utilities
-tqdm
-ipywidgets
-notebook
-
-# Environment and config
-python-dotenv
+tensorflow==2.15.0  # Optional, for TensorFlow users
+#tensorflow-gpu  # Optional, for TensorFlow users with GPU support
